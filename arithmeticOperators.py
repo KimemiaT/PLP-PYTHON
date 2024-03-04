@@ -7,7 +7,7 @@
 6.Special
 '''
 #ARITHMETIC e.g +,-,/,*,//,%,**
-a=9
+a=9     
 b=5
 sum=a+b     #addition(+)
 diff=a-b    #Subtraction(-)

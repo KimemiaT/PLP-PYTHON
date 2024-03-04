@@ -13,7 +13,7 @@ b=10
 
 a=b         #Assignment operator (a=value of b) a=10
 a+=10       #Addition assignment a=20
-a-=5        #Subtraction assignment a=15
+a-=5        #Subtraction assignment a= 
 a*=10       #Multiplication assignment a=150
 a/=5        #Division assignment a=30
 a**=2        #Exponent assignment a=900

@@ -6,10 +6,20 @@
 5.Bitwise
 6.Special'''
 
-#LOGICAL OPERATORS-AND,OR,NOT
+#LOGICAL OPERATORS-AND,OR,NOT      1-ON  0-OFF
 print( True and True)       #True
 print(False and False)      #False
 print( True and  False)     #False
 print(True or False)        #True
 print(not True)             #False
 print(not False)            #True
+
+
+
+age=int(input("Enter age:"))
+gender=input("Enter your gender:")
+#AND-Male only  club(football club)
+if(age>=18 and gender is not'Female'):
+ print("Allowed to join")
+else:
+ print("Not allowed to join")
