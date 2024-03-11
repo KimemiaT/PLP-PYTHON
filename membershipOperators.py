@@ -6,7 +6,7 @@
 5.Bitwise
 6.Special-identity/membership
 '''
-#MEMBERSHIP -IN NOT IN
+#MEMBERSHIP -IN ,NOT IN
 #dict
 score={'A':80,'B':60}
 greetings='Hello world'

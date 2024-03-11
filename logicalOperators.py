@@ -18,6 +18,7 @@ print(not False)            #True
 
 age=int(input("Enter age:"))
 gender=input("Enter your gender:")
+gender=gender.upper().lower()
 #AND-Male only  club(football club)
 if(age>=18 and gender is not'Female'):
  print("Allowed to join")
