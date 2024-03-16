@@ -1,3 +1,4 @@
+
 price = int(input("Enter price:"))
 discount_percent = int(input("Enter discount percentage:"))
 discount_percent /= 100

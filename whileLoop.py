@@ -5,7 +5,7 @@ while score <=5:
     score+=1"""
 
 
-#break statement
+"""#break statement
 colors=["White","Red","Yellow","Blue"]
 colorWanted="Yellow"
 length=len(colors)
@@ -16,18 +16,19 @@ while count < length and count <=5:
  if colors[count] == colorWanted:
         print("They have yellow")
         break
-count+=1
+count+=1"""
    
 
 #continue statement
    
-colors=["White","Red","Yellow","Blue"]
+"""colors=["White","Red","Yellow","Blue"]
 colorWanted="Yellow"
-length=len(colors)
+length=len(colors)"""
 count=0
-while count < length and count <=5:
-    if colors[count] == colorWanted:
-        print("They have yellow")
+x=3
+while count<=5:
+    if count== x:
+        print(count)
         continue
 count+=1
     

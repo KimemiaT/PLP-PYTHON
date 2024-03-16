@@ -1,11 +1,13 @@
 #function to add two numbers
-def sum():
-    print(1+2)
+def sum(a,b):
+    c=a+b
+ 
+    
     #calling a function
 sum()
 
 
-#with parameters
+"""#with parameters
 def add_num(a,b):
     answer=a+b
     return answer
@@ -35,3 +37,7 @@ def add_ages(**ages):
         sum+=v
     return sum
 print("sum is:",add_ages(tracey=10,chama=21))
+
+
+
+"""

@@ -1,13 +1,12 @@
-#if statement
-"""age=int(input("Enter your age:"))
+#if else statement
+age=int(input("Enter your age:"))
 if age >=18:
     print("Access Granted")
 else:
-    print("Access Denied")"""
+    print("Access Denied")
 
 
-
-#NESTED IF
+#NESTED IF...elif
 age=int(input("Enter your age:"))
 if age >35:
  print("ADULT")
@@ -23,3 +22,5 @@ elif age >11:
    print("PRETEEN")
 elif age <=10:
    print("CHILD!")
+
+
